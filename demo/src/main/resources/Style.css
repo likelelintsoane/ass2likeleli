@@ -1,0 +1,61 @@
+
+#start{
+    -fx-padding: 5;
+    -fx-background-color:tomato;
+}
+#webView{
+    -fx-background-color:snow;
+    -fx-padding: 5;
+}
+#footer{
+     -fx-background-color:pink;
+ }
+#hh{
+    -fx-background-color:azure;
+}
+#bb{
+    -fx-background-color:snow;
+}
+#bbc{
+    -fx-background-color:gray;
+    -fx-background-opacity:5;
+}
+#ff{
+    -fx-background-color:black;
+}
+#pp{
+    -fx-background-color:violet;
+}
+
+nane{
+    -fx-fontSize:10px;
+}
+#type{
+    -fx-font-size:30px;
+    -fx-background-color:null;
+    -fx-text-fill:red;
+    -fx-font-family:Impact;
+    -fx-font-wight:bold;
+    -fx-text-align:center;
+    -fx-alignment:center;
+}
+#butn{
+    -fx-background-color:azure;
+    -fx-font-family:helvetica;
+    -fx-text-fill:black;
+}
+#butn: hover{
+-fx-background-color:pink;
+-fx-text-fill:yellow;
+-fx-font-size:20px;
+-fx-cursor:hand;
+
+}
+#butn: pressed{
+-fx-background-color:purple;
+-fx-text-fill:red;
+-fx-border: solid;
+-fx-font-size:10px;
+-fx-cursor:wait;
+
+}
